@@ -1,6 +1,6 @@
 # reload
 
-Automatically reload website with python. This is like CTRL + R behavior.
+Automatically reload website with python. This is like CTRL + R behavior. You need installed latest google chrome to use this tools.
 
 ### Installing
 
